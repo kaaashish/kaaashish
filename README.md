@@ -1,4 +1,4 @@
-Readme · MDCopy<div align="center">
+<div align="center">
 𝐤𝐚𝐬𝐡𝐢𝐬𝐡<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀:¨ ·.· ¨:<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀`· . 𐙚<br>
