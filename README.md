@@ -14,10 +14,10 @@
 </div>
 ⠀
 
-hi! i'm kashish — a computer systems engineering student with a soft spot for philosophy and ancient history. i like thinking about what technology should do, not just what it can do.
+hi! i'm kashish: a computer systems engineering student with a soft spot for philosophy and ancient history. i like thinking about what technology should do, not just what it can do.
 
 
-🏛️ currently obsessed with ancient rome (the republic era especially)
+🏛️ currently obsessed with ancient rome 
 ⚡ exploring high performance computing & ethical computing
 🪟 building widgets for microsoft
 💭 always thinking about the intersection of tech & philosophy
