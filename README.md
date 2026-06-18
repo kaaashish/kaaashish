@@ -1,9 +1,8 @@
-<div align="center">
-𝐤𝐚𝐬𝐡𝐢𝐬𝐡
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀:¨ ·.· ¨:
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀`· . 𐙚
-
+Readme · MDCopy<div align="center">
+𝐤𝐚𝐬𝐡𝐢𝐬𝐡<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀:¨ ·.· ¨:<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀`· . 𐙚<br>
+<br>
 ♡ ‧₊˚ ⋅ cse student · philosopher · builder ⋅ ˚₊‧ ♡
 
 </div>
@@ -14,10 +13,10 @@
 </div>
 ⠀
 
-hi! i'm kashish: a computer systems engineering student with a soft spot for philosophy and ancient history. i like thinking about what technology should do, not just what it can do.
+hi! i'm kashish — a computer systems engineering student with a soft spot for philosophy and ancient history. i like thinking about what technology should do, not just what it can do.
 
 
-🏛️ currently obsessed with ancient rome 
+🏛️ currently obsessed with ancient rome (the republic era especially)
 ⚡ exploring high performance computing & ethical computing
 🪟 building widgets for microsoft
 💭 always thinking about the intersection of tech & philosophy
@@ -33,7 +32,7 @@ hi! i'm kashish: a computer systems engineering student with a soft spot for phi
 ⠀
 
 ✦ microsoft widgets
-    ⠀small, purposeful tools living on your desktop — built for microsoft's widget ecosystem
+    small, purposeful tools living on your desktop — built for microsoft's widget ecosystem
 
 ⠀
 
@@ -52,8 +51,8 @@ hi! i'm kashish: a computer systems engineering student with a soft spot for phi
 
 
 <div align="center">
-:¨ ·.· ¨: ⠀ `· . 𐙚
-
-"the unexamined code is not worth shipping" - socrates, in the 21st century, maybe.
+:¨ ·.· ¨: ⠀ `· . 𐙚<br>
+<br>
+"the unexamined code is not worth shipping" — socrates, in the 21st century, probably
 
 </div>
