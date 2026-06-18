@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
+𝐤𝐚𝐬𝐡𝐢𝐬𝐡
 
-<!--
-**kaaashish/kaaashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀:¨ ·.· ¨:
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀`· . 𐙚
 
-Here are some ideas to get you started:
+♡ ‧₊˚ ⋅ cse student · philosopher · builder ⋅ ˚₊‧ ♡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+⠀ ౨ৎ ‧₊˚ . about me . ˚₊‧ ౨ৎ
+
+</div>
+⠀
+
+hi! i'm kashish — a computer systems engineering student with a soft spot for philosophy and ancient history. i like thinking about what technology should do, not just what it can do.
+
+
+🏛️ currently obsessed with ancient rome (the republic era especially)
+⚡ exploring high performance computing & ethical computing
+🪟 building widgets for microsoft
+💭 always thinking about the intersection of tech & philosophy
+
+
+⠀
+
+
+<div align="center">
+⠀ ౨ৎ ‧₊˚ . things i'm building . ˚₊‧ ౨ৎ
+
+</div>
+⠀
+
+✦ microsoft widgets
+    ⠀small, purposeful tools living on your desktop — built for microsoft's widget ecosystem
+
+⠀
+
+
+<div align="center">
+⠀ ౨ৎ ‧₊˚ . stack . ˚₊‧ ౨ৎ
+
+</div>
+⠀
+
+⋆ languages  →  python · javascript · java
+⋆ interests  →  hpc · systems · ethical ai · philosophy of mind
+⋆ currently  →  widgets · ancient history · figuring it out
+
+⠀
+
+
+<div align="center">
+:¨ ·.· ¨: ⠀ `· . 𐙚
+
+"the unexamined code is not worth shipping" - socrates, in the 21st century, maybe.
+
+</div>
