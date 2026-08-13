@@ -3,7 +3,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀:¨ ·.· ¨:<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀`· . 𐙚<br>
 <br>
-♡ ‧₊˚ ⋅ cse student · philosopher · builder ⋅ ˚₊‧ ♡
+♡ ‧₊˚ ⋅ cse student ⋅ ˚₊‧ ♡
 
 </div>
 
