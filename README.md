@@ -13,10 +13,7 @@
 </div>
 ⠀
 
-hi! i'm kashish. i'm a computer systems engineering student with a soft spot for philosophy and ancient history. i like thinking about what technology should do, not just what it can do.
-
-
- i'm currently obsessed with ancient rome (the republic era especially), as well as exploring high performance computing & ethical computing. as well as this, i'm always thinking about the intersection of tech & philosophy
+hi! i'm kashish. i'm a computer systems engineering student with a soft spot for philosophy and ancient history. i like thinking about what technology should do, not just what it can do. i'm currently obsessed with ancient rome (the republic era especially), as well as exploring high performance computing & ethical computing.
 
 
 ⠀
@@ -29,7 +26,7 @@ hi! i'm kashish. i'm a computer systems engineering student with a soft spot for
 ⠀
 
 ✦ microsoft widgets
-    small, purposeful tools living on your desktop — built for microsoft's widget ecosystem
+ 
 
 ⠀
 
